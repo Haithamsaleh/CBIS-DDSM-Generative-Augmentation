@@ -1,0 +1,6 @@
+Metric,Best Experiment,Best Model,Best Score
+Accuracy,Model-B VAE Augmented Data,Random Forest,0.5241477272727273
+Precision,Model-B VAE Augmented Data,Random Forest,0.4331065759637188
+Recall,Model-A Original Data,SVM,0.8768115942028986
+F1-score,Model-A Original Data,Random Forest,0.5779376498800959
+AUC,Model-A Original Data,Random Forest,0.6020291548151158
